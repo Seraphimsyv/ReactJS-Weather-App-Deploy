@@ -1,0 +1,2 @@
+body{background-repeat:no-repeat;background-size:contain;height:100%;margin:0;padding:0;width:100%}.app{height:100vh}.map{display:flex;height:75vh;justify-content:center}#povmap{width:-webkit-max-content;width:max-content}#map path{fill:#202020;stroke:#fff;-webkit-filter:drop-shadow(1px 1px 15px rgba(0,0,0,.75));filter:drop-shadow(1px 1px 15px rgba(0,0,0,.75))}#map path:hover{fill:#ff0}#city path{fill:blue}#lin{stroke:#323232}
+/*# sourceMappingURL=main.6c078515.css.map*/
